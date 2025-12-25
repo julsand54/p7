@@ -1,2 +1,4 @@
 # p7
-CV viewport de ordenador y movil
+CV view port de ordenador y movil.  
+## Info
+**Creator**: Julia
